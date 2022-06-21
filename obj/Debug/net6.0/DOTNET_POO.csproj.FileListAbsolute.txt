@@ -1,0 +1,15 @@
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\bin\Debug\net6.0\DOTNET_POO.exe
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\bin\Debug\net6.0\DOTNET_POO.deps.json
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\bin\Debug\net6.0\DOTNET_POO.runtimeconfig.json
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\bin\Debug\net6.0\DOTNET_POO.dll
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\bin\Debug\net6.0\DOTNET_POO.pdb
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\obj\Debug\net6.0\DOTNET_POO.csproj.AssemblyReference.cache
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\obj\Debug\net6.0\DOTNET_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\obj\Debug\net6.0\DOTNET_POO.AssemblyInfoInputs.cache
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\obj\Debug\net6.0\DOTNET_POO.AssemblyInfo.cs
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\obj\Debug\net6.0\DOTNET_POO.csproj.CoreCompileInputs.cache
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\obj\Debug\net6.0\DOTNET_POO.dll
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\obj\Debug\net6.0\refint\DOTNET_POO.dll
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\obj\Debug\net6.0\DOTNET_POO.pdb
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\obj\Debug\net6.0\DOTNET_POO.genruntimeconfig.cache
+C:\Users\salda\OneDrive\Área de Trabalho\Faculdade\DOTNET_POO\obj\Debug\net6.0\ref\DOTNET_POO.dll
